@@ -21,10 +21,9 @@
 
 
 ## Linguagens utilizadas
-<div display=" inline-block">
-<img src="https://velog.velcdn.com/images/ak0150a01/post/7477f426-4e0e-4266-a2a1-cee1bdc6c5d7/image.png" height="70px" width="70px" align-itens= "inline-block">
-
-<img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" height="70px" width="70px" align-itens= "inline-block">
+ <div>
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 </div>
 
 ## Como instalar
